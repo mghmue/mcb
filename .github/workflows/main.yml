@@ -1,4 +1,4 @@
-- name: Build Android APK
+name: Build Android APK
 
 on:
   push:
@@ -34,5 +34,5 @@ jobs:
 - name: Upload Debug APK
         uses: actions/upload-artifact@v4
         with:
-          - name: my-app-debug
+          name: my-app-debug
           path: "**/build/outputs/apk/debug/*.apk"
