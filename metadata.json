@@ -1,0 +1,6 @@
+{
+  "name": "SecureBank",
+  "description": "SecureBank Voucher Verification mobile app for bank officers to verify daily transaction vouchers with simulated OCR scanning, Myanmar language alerts, and deposit summary reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

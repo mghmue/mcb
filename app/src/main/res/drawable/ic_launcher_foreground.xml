@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Bank Pediment (Roof) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,25 L28,37 L80,37 Z" />
+    
+    <!-- Architrave Beam -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M30,39 L78,39 L78,43 L30,43 Z" />
+    
+    <!-- Pillars -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M33,45 L39,45 L39,64 L33,64 Z" />
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M44,45 L50,45 L50,64 L44,64 Z" />
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M58,45 L64,45 L64,64 L58,64 Z" />
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M69,45 L75,45 L75,64 L69,64 Z" />
+    
+    <!-- Base Platform -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M29,65 L79,65 L79,68 L29,68 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M26,69 L82,69 L82,73 L26,73 Z" />
+
+    <!-- Verified Badge Container -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M68,54 C75.7,54 82,60.3 82,68 C82,75.7 75.7,82 68,82 C60.3,82 54,75.7 54,68 C54,60.3 60.3,54 68,54 Z" />
+    
+    <!-- Badge Inner Border -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M68,56 C74.6,56 80,61.4 80,68 C80,74.6 74.6,80 68,80 C61.4,80 56,74.6 56,68 C56,61.4 61.4,56 68,56 Z" />
+
+    <!-- Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64.5,73.5 L60.2,69.2 L61.6,67.8 L64.5,70.7 L73.4,61.8 L74.8,63.2 Z" />
+
+</vector>
